@@ -1,0 +1,7 @@
+.head {
+  color: red;
+  width: 400px;
+  height: 400px;
+  background-image: url('../assets/01.png');
+  background-size: 200px 200px;
+}
